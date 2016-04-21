@@ -2,6 +2,9 @@
 Help Shopify Canada Merchants Add Alipay Payment Gateway
 Shopify Canada Merchants Can Visit [Shopify Canada Alipay Integration](http://www.shopifychina.com/shopify-canada.html).
 
+###Create a Shopify Store
+Visit [Shopify](http://www.shopify.com/?ref=erp-boost)
+
 ###Who is providing Shopify Canada Merchants Alipay Integration?
 1. SHOPIFY Canada PERFORMANCE
 Speed up your Shopify Canada website's js and css,Image Tuning, Let your customer in china hard to find difference where they locates.
